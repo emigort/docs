@@ -1,4 +1,4 @@
-# Instalation php with nginx for php8 and laravel 8
+# Instalation php with nginx for php7.4 and laravel 8
 
         sudo apt update
         sudo apt upgrade
